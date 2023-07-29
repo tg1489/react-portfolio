@@ -1,5 +1,6 @@
 import React from 'react';
 import '../App.css';
+import me from '../images/me.png';
 
 export default function About() {
   return (
@@ -10,7 +11,7 @@ export default function About() {
         <img
           id='profile-pic'
           className='about-me-img'
-          src='https://pbs.twimg.com/profile_images/1605297940242669568/q8-vPggS_400x400.jpg'
+          src={me}
           alt='profile pic'
         />
 
