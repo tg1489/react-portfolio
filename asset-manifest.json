@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tg1489.github.io/react-portfolio/static/css/main.045af0df.css",
-    "main.js": "/tg1489.github.io/react-portfolio/static/js/main.42defcaa.js",
+    "main.js": "/tg1489.github.io/react-portfolio/static/js/main.6c84eb7c.js",
     "static/media/svgmaker.jpg": "/tg1489.github.io/react-portfolio/static/media/svgmaker.3ee0e028981bf39a58e1.jpg",
     "static/media/nodesqlconnector.jpg": "/tg1489.github.io/react-portfolio/static/media/nodesqlconnector.125300b790d979042b51.jpg",
     "static/media/Watchparty.png": "/tg1489.github.io/react-portfolio/static/media/Watchparty.34c28142c64db09329a7.png",
@@ -32,10 +32,10 @@
     "static/media/pwgen.png": "/tg1489.github.io/react-portfolio/static/media/pwgen.c9a33da79bb7c84cda52.png",
     "index.html": "/tg1489.github.io/react-portfolio/index.html",
     "main.045af0df.css.map": "/tg1489.github.io/react-portfolio/static/css/main.045af0df.css.map",
-    "main.42defcaa.js.map": "/tg1489.github.io/react-portfolio/static/js/main.42defcaa.js.map"
+    "main.6c84eb7c.js.map": "/tg1489.github.io/react-portfolio/static/js/main.6c84eb7c.js.map"
   },
   "entrypoints": [
     "static/css/main.045af0df.css",
-    "static/js/main.42defcaa.js"
+    "static/js/main.6c84eb7c.js"
   ]
 }
