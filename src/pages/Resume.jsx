@@ -5,7 +5,13 @@ export default function Resume() {
     <div className='container'>
       <h3>Resume</h3>
       <p>
-        Download my <a className='resume-link'>resume</a>
+        Download my{' '}
+        <a
+          href='https://docs.google.com/document/d/1UIBEt2GOw10aTy1I1kXhlkOCiz-OalSK/edit?usp=sharing&ouid=115209332736509351247&rtpof=true&sd=true'
+          className='resume-link'
+        >
+          resume
+        </a>
       </p>
 
       <ul className='browser-default resume-list'>
