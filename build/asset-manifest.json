@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/tg1489.github.io/react-portfolio/static/css/main.045af0df.css",
+    "main.js": "/tg1489.github.io/react-portfolio/static/js/main.6c84eb7c.js",
+    "static/media/svgmaker.jpg": "/tg1489.github.io/react-portfolio/static/media/svgmaker.3ee0e028981bf39a58e1.jpg",
+    "static/media/nodesqlconnector.jpg": "/tg1489.github.io/react-portfolio/static/media/nodesqlconnector.125300b790d979042b51.jpg",
+    "static/media/Watchparty.png": "/tg1489.github.io/react-portfolio/static/media/Watchparty.34c28142c64db09329a7.png",
+    "static/media/ecommerce.jpg": "/tg1489.github.io/react-portfolio/static/media/ecommerce.7d535815e88e29dd7060.jpg",
+    "static/media/backend.jpg": "/tg1489.github.io/react-portfolio/static/media/backend.505df75e5fe07879594f.jpg",
+    "static/media/jabberwocky.png": "/tg1489.github.io/react-portfolio/static/media/jabberwocky.19e94151e7eaa59bcaa4.png",
+    "static/media/me.png": "/tg1489.github.io/react-portfolio/static/media/me.0b323c219dbb0e178192.png",
+    "static/media/quiz.png": "/tg1489.github.io/react-portfolio/static/media/quiz.0c2706c88f16850dac0f.png",
+    "static/media/material-icons-two-tone.woff": "/tg1489.github.io/react-portfolio/static/media/material-icons-two-tone.3baa5b8f3469222b822d.woff",
+    "static/media/material-icons-two-tone.woff2": "/tg1489.github.io/react-portfolio/static/media/material-icons-two-tone.4ef4218c522f1eb6b5b1.woff2",
+    "static/media/material-icons-round.woff": "/tg1489.github.io/react-portfolio/static/media/material-icons-round.5d681e2edae8c60630db.woff",
+    "static/media/material-icons-outlined.woff": "/tg1489.github.io/react-portfolio/static/media/material-icons-outlined.f882956fd323fd322f31.woff",
+    "static/media/material-icons-round.woff2": "/tg1489.github.io/react-portfolio/static/media/material-icons-round.c380809fd3677d7d6903.woff2",
+    "static/media/material-icons.woff": "/tg1489.github.io/react-portfolio/static/media/material-icons.4d73cb90e394b34b7670.woff",
+    "static/media/material-icons-sharp.woff": "/tg1489.github.io/react-portfolio/static/media/material-icons-sharp.3a4004a46a653d4b2166.woff",
+    "static/media/material-icons-outlined.woff2": "/tg1489.github.io/react-portfolio/static/media/material-icons-outlined.6f420cf17cc0d7676fad.woff2",
+    "static/media/weather.png": "/tg1489.github.io/react-portfolio/static/media/weather.a21ef8e42283e659afee.png",
+    "static/media/material-icons-sharp.woff2": "/tg1489.github.io/react-portfolio/static/media/material-icons-sharp.219aa9140e099e6c72ed.woff2",
+    "static/media/material-icons.woff2": "/tg1489.github.io/react-portfolio/static/media/material-icons.0c35d18bf06992036b69.woff2",
+    "static/media/readme.png": "/tg1489.github.io/react-portfolio/static/media/readme.d47c7d6a481b1d9ff050.png",
+    "static/media/linkedin.png": "/tg1489.github.io/react-portfolio/static/media/linkedin.5e79b8651fd668689fb3.png",
+    "static/media/regex-gist.png": "/tg1489.github.io/react-portfolio/static/media/regex-gist.1c48740809ebcf7215c5.png",
+    "static/media/work.png": "/tg1489.github.io/react-portfolio/static/media/work.5355d774de69008f41fb.png",
+    "static/media/blogapp.png": "/tg1489.github.io/react-portfolio/static/media/blogapp.2b35c675135816bd3dde.png",
+    "static/media/notes.png": "/tg1489.github.io/react-portfolio/static/media/notes.e1da778338a598629735.png",
+    "static/media/stackoverflow.png": "/tg1489.github.io/react-portfolio/static/media/stackoverflow.e7b2847d4eac3b5514ea.png",
+    "static/media/github.png": "/tg1489.github.io/react-portfolio/static/media/github.b938de7296cc094be133.png",
+    "static/media/pwgen.png": "/tg1489.github.io/react-portfolio/static/media/pwgen.c9a33da79bb7c84cda52.png",
+    "index.html": "/tg1489.github.io/react-portfolio/index.html",
+    "main.045af0df.css.map": "/tg1489.github.io/react-portfolio/static/css/main.045af0df.css.map",
+    "main.6c84eb7c.js.map": "/tg1489.github.io/react-portfolio/static/js/main.6c84eb7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.045af0df.css",
+    "static/js/main.6c84eb7c.js"
+  ]
+}
