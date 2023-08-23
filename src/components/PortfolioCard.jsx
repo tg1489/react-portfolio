@@ -13,6 +13,7 @@ import quiz from '../images/quiz.png';
 import pwgen from '../images/pwgen.png';
 import watchparty from '../images/Watchparty.png';
 import regexgist from '../images/regex-gist.png';
+import bodyandmind from '../images/bodyandmind.png';
 
 export default function PortfolioCard() {
   const projects = [
@@ -127,6 +128,13 @@ export default function PortfolioCard() {
       alt: 'regex-gist',
       github: 'https://gist.github.com/tg1489/050c31dc77777786b9dcabd68cd9e49c',
       name: 'Regular Expressions Gist',
+    },
+    {
+      id: 15,
+      src: bodyandmind,
+      href: 'https://body--mind-424f753a39d8.herokuapp.com/',
+      github: 'https://github.com/EldenBear/Body_and_Mind',
+      name: 'Body and Mind',
     },
   ];
   return (
