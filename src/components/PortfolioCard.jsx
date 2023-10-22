@@ -30,7 +30,7 @@ export default function PortfolioCard() {
     {
       id: 2,
       src: blogapp,
-      href: 'https://ru-course-blog-app-440464be75af.herokuapp.com/home',
+      href: 'https://github.com/tg1489/blog-app',
       alt: 'blog app',
       github: 'https://github.com/tg1489/blog-app',
       name: 'Blog App',
