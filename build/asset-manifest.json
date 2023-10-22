@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.5d3a946f.css",
-    "main.js": "/react-portfolio/static/js/main.47373443.js",
+    "main.js": "/react-portfolio/static/js/main.713f0e20.js",
     "static/media/svgmaker.jpg": "/react-portfolio/static/media/svgmaker.3ee0e028981bf39a58e1.jpg",
     "static/media/nodesqlconnector.jpg": "/react-portfolio/static/media/nodesqlconnector.125300b790d979042b51.jpg",
     "static/media/Watchparty.png": "/react-portfolio/static/media/Watchparty.34c28142c64db09329a7.png",
     "static/media/ecommerce.jpg": "/react-portfolio/static/media/ecommerce.7d535815e88e29dd7060.jpg",
     "static/media/backend.jpg": "/react-portfolio/static/media/backend.505df75e5fe07879594f.jpg",
     "static/media/jabberwocky.png": "/react-portfolio/static/media/jabberwocky.19e94151e7eaa59bcaa4.png",
+    "static/media/googlebooks.png": "/react-portfolio/static/media/googlebooks.2287e576e68583c6e574.png",
     "static/media/bodyandmind.png": "/react-portfolio/static/media/bodyandmind.9f3915779a7f0717cc0a.png",
     "static/media/me.png": "/react-portfolio/static/media/me.0b323c219dbb0e178192.png",
     "static/media/rcnj.png": "/react-portfolio/static/media/rcnj.d568766b2c995809e40b.png",
@@ -34,10 +35,10 @@
     "static/media/pwgen.png": "/react-portfolio/static/media/pwgen.c9a33da79bb7c84cda52.png",
     "index.html": "/react-portfolio/index.html",
     "main.5d3a946f.css.map": "/react-portfolio/static/css/main.5d3a946f.css.map",
-    "main.47373443.js.map": "/react-portfolio/static/js/main.47373443.js.map"
+    "main.713f0e20.js.map": "/react-portfolio/static/js/main.713f0e20.js.map"
   },
   "entrypoints": [
     "static/css/main.5d3a946f.css",
-    "static/js/main.47373443.js"
+    "static/js/main.713f0e20.js"
   ]
 }
