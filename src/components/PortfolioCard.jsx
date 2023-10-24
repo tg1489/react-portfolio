@@ -16,11 +16,20 @@ import regexgist from '../images/regex-gist.png';
 import bodyandmind from '../images/bodyandmind.png';
 import retrocastlenj from '../images/rcnj.png';
 import googlebooks from '../images/googlebooks.png';
+import upcominggames from '../images/games.png';
 
 export default function PortfolioCard() {
   const projects = [
     {
       id: 1,
+      src: upcominggames,
+      href: 'https://github.com/tg1489/upcoming-games-MERN',
+      alt: 'upcoming games',
+      github: 'https://github.com/tg1489/upcoming-games-MERN',
+      name: 'Upcoming Games',
+    },
+    {
+      id: 2,
       src: googlebooks,
       href: 'https://ru-course-blog-app-440464be75af.herokuapp.com/home',
       alt: 'google books',
@@ -28,7 +37,7 @@ export default function PortfolioCard() {
       name: 'Google Books',
     },
     {
-      id: 2,
+      id: 3,
       src: blogapp,
       href: 'https://github.com/tg1489/blog-app',
       alt: 'blog app',
@@ -36,7 +45,7 @@ export default function PortfolioCard() {
       name: 'Blog App',
     },
     {
-      id: 3,
+      id: 4,
       src: weather,
       href: 'https://tg1489.github.io/weather-dashboard/',
       alt: 'weather dashboard',
@@ -44,7 +53,7 @@ export default function PortfolioCard() {
       name: 'Weather Dashboard',
     },
     {
-      id: 4,
+      id: 5,
       src: backend,
       href: 'https://github.com/tg1489/social-media-backend',
       alt: 'social media backend',
@@ -52,7 +61,7 @@ export default function PortfolioCard() {
       name: 'Social Media Backend',
     },
     {
-      id: 5,
+      id: 6,
       src: ecommerce,
       href: 'https://github.com/tg1489/ecommerce-backend',
       alt: 'ecommerce backend',
@@ -60,7 +69,7 @@ export default function PortfolioCard() {
       name: 'E-Commerce Backend',
     },
     {
-      id: 6,
+      id: 7,
       src: nodesqlconnector,
       href: 'https://github.com/tg1489/node-sql-connector',
       alt: 'Node SQL Connector',
@@ -68,7 +77,7 @@ export default function PortfolioCard() {
       name: 'Node SQL Connector',
     },
     {
-      id: 7,
+      id: 8,
       src: notetaker,
       href: 'https://note-taker-for-ru-course.herokuapp.com/',
       alt: 'note taker',
@@ -76,7 +85,7 @@ export default function PortfolioCard() {
       name: 'Note Taker',
     },
     {
-      id: 8,
+      id: 9,
       src: svgmaker,
       href: 'https://github.com/tg1489/svg-maker',
       alt: 'svg maker',
@@ -84,7 +93,7 @@ export default function PortfolioCard() {
       name: 'SVG Maker',
     },
     {
-      id: 9,
+      id: 10,
       src: readme,
       href: 'https://github.com/tg1489/readme-generator',
       alt: 'readme gen',
@@ -92,7 +101,7 @@ export default function PortfolioCard() {
       name: 'README Generator',
     },
     {
-      id: 10,
+      id: 11,
       src: work,
       href: 'https://tg1489.github.io/work-day-scheduler/',
       alt: 'workday scheduler',
@@ -100,7 +109,7 @@ export default function PortfolioCard() {
       name: 'Workday Scheduler',
     },
     {
-      id: 11,
+      id: 12,
       src: quiz,
       href: 'https://tg1489.github.io/timed-coding-quiz/',
       alt: 'timed quiz',
@@ -108,7 +117,7 @@ export default function PortfolioCard() {
       name: 'Timed Coding Quiz',
     },
     {
-      id: 12,
+      id: 13,
       src: pwgen,
       href: 'https://tg1489.github.io/password-generator/',
       alt: 'password gen',
@@ -116,7 +125,7 @@ export default function PortfolioCard() {
       name: 'Password Generator',
     },
     {
-      id: 13,
+      id: 14,
       src: jabberwocky,
       href: 'https://boiling-mountain-88128.herokuapp.com/',
       alt: 'jabberwocky',
@@ -124,7 +133,7 @@ export default function PortfolioCard() {
       name: 'Jabberwocky',
     },
     {
-      id: 14,
+      id: 15,
       src: watchparty,
       href: 'https://santos-al.github.io/Watch-Party/',
       alt: 'watchparty',
@@ -132,7 +141,7 @@ export default function PortfolioCard() {
       name: 'Watch Party',
     },
     {
-      id: 15,
+      id: 16,
       src: regexgist,
       href: 'https://gist.github.com/tg1489/050c31dc77777786b9dcabd68cd9e49c',
       alt: 'regex-gist',
@@ -140,14 +149,14 @@ export default function PortfolioCard() {
       name: 'Regular Expressions Gist',
     },
     {
-      id: 16,
+      id: 17,
       src: bodyandmind,
       href: 'https://body--mind-424f753a39d8.herokuapp.com/',
       github: 'https://github.com/EldenBear/Body_and_Mind',
       name: 'Body and Mind',
     },
     {
-      id: 17,
+      id: 18,
       src: retrocastlenj,
       href: 'https://tg1489.github.io/retrocastle/#',
       github: 'https://github.com/tg1489/retrocastle',
